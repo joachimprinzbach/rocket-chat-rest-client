@@ -7,6 +7,3 @@ jdk:
 
 services:
   - docker
-
-  script:
-    - mvn clean install -P travis -B
